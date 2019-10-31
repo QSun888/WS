@@ -20,6 +20,7 @@ Then the output should be = [94133,94133] [94200,94399]
 ### Clone
 * Clone this repo to your local machine using https://github.com/QSun888/WS.git
 ### Setup
+* If the project is not automatically configured, you need to specify the resource dir(src) accordingly.
 * Create custom testcases by accessing Main.java
 
 ## Running the tests
